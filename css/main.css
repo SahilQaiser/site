@@ -1,0 +1,182 @@
+*{
+    padding: 0;
+    margin:0;
+    font-family: 'Raleway', sans-serif !important;
+    text-decoration: none;
+    outline: none;
+}
+
+tr{
+
+}
+
+td{
+/*border: 2px solid red;   
+*/
+    margin:0 10px;
+}
+
+/* ############################### profiles.html ############################# */
+.main-container{
+    background-color:whitesmoke;
+    margin:0 auto;
+    width: 960px;
+}
+
+.outer-table{
+    width:100%;
+    /* border:2px solid red;*/
+}
+
+.outer-table__row{
+ margin-bottom: 30px;
+ width: 100%;
+/* border: 2px solid yellow;
+ background-color: brown;
+*/
+}
+.outer-table__col{   
+  /*  border: 2px solid pink;
+    background-color: darkgoldenrod;
+*/}
+
+.main-container__student-profile_container, .faculty-container, .student-container {
+    background-color: #E9ECEF;
+  /*  background-color: chartreuse;
+   */ box-shadow: 1px 2px 3px #555;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 5px;
+}
+
+
+.student-profile-table{
+    border-collapse: collapse;
+    width: 440px;
+}
+.td-img{
+    width:150px;
+    text-align: center;
+}
+
+.student-profile-table__user-dp, .user-dp{
+    border-radius: 50%;
+    outline:none;
+    border:2px solid silver;
+    box-shadow: 2px 2px 4px silver
+}
+
+.student-profile-table__username{
+    font-size:x-large;
+    font-weight: bolder;
+/*    border: 2px solid yellow;*/
+}
+
+.student-profile-table__ug{
+    /*border: 2px solid green
+*/
+font-size: small;
+font-weight: bold;
+}
+
+.student-profile-table__skills{
+/*    border: 2px solid blue;
+  */  
+  font-size: small;
+}
+
+.student-profile-table__footer{
+    /*border: 2px solid violet;
+*/
+}
+
+.footer-icon{
+    padding:0 5px;
+}
+
+.footer-left{
+    float:left;
+}
+
+.footer-row{
+    text-align: center;
+    border-top: 1px solid silver;
+}
+
+.footer-right{
+    float: right;
+}
+/* ##################### info.html ############################# */
+
+
+.faculty-container, .student-container{
+    display: flex; 
+}
+
+.main-heading{
+    display: block;
+    font-size:xx-large;
+    font-weight: bolder;
+    color: #008cba;
+    text-align: center;
+    margin: 30px 0px 15px 0px;
+}
+
+.faculty-container__content{
+    flex: 1;
+    margin: 0 40px;
+    display: inline-block;
+    text-align: center;
+}
+
+.student-container__content
+{
+    flex: 1;
+    display: inline-block;
+    text-align: center;
+    padding:5px;
+}
+
+.codinator-name{
+    margin-bottom:10px;
+}
+
+.faculty-coodinator-name{
+   
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.student-coodinator-name{
+    font-size: large;
+    font-weight: bold;
+}
+
+.faculty-container__content p
+{ 
+    text-align: center;
+    display: block;
+    font-weight: bold;
+    line-height: 95%;;
+}
+
+.student-coodinator-footer{
+    margin-bottom:10px;
+}
+
+/* ##################### Recruiter.html ############################# */
+.btn_More{
+    border-radius: 5px;
+    width: 100px;
+    outline: none;
+    font-weight: bolder;
+    font-size: large;
+    text-decoration: none;
+}
+
+/* ##################### contact us.html ############################# */
+{
+    
+}
+

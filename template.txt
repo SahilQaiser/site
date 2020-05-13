@@ -1,0 +1,50 @@
+                <tr class="outer-table__row">
+                    <td class="outer-table__col">
+                        <div class="main-container__student-profile_container">
+                            <table class="student-profile-table">
+                                <tr>
+                                    <td rowspan="3"><img src="images/students/" alt="" title="" class="student-profile-table__user-dp"/></td>
+                                    <td colspan="2"><p class="student-profile-table__username"></p></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><p class="student-profile-table__ug"></p></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><p class="student-profile-table__skills"></p></td>
+                                </tr>
+                                <tr class="footer-row">
+                                    <td colspan="3" class="student-profile-table__footer">
+                                        <span class="footer-left"><img src="images/web.png" class="footer-icon"><a href="">Portfolio</a></span>
+                                        <span class="footer-middle"><img src="images/mail.png" class="footer-icon"><a href="mailto:"></a></span>
+                                        <span class="footer-right"><img src="images/tel.png" class="footer-icon"><a href="tel:"></a></span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </td>
+
+                    <td class="outer-table__col">
+                        <div class="main-container__student-profile_container">
+                            <table class="student-profile-table">
+                                <tr>
+                                    <td rowspan="3"><img src="images/students/" alt="" title="" class="student-profile-table__user-dp"/></td>
+                                    <td colspan="2"><p class="student-profile-table__username"></p></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><p class="student-profile-table__ug"></p></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><p class="student-profile-table__skills"></p></td>
+                                </tr>
+                                <tr class="footer-row">
+                                    <td colspan="3" class="student-profile-table__footer">
+                                        <span class="footer-left"><img src="images/web.png" class="footer-icon"><a href=""></a></span>
+                                        <span class="footer-middle"><img src="images/mail.png" class="footer-icon"><a href="mailto:"></a></span>
+                                        <span class="footer-right"><img src="images/tel.png" class="footer-icon"><a href="tel:"></a></span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </td>
+                </tr>
+				
